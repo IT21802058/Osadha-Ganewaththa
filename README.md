@@ -1,3 +1,4 @@
+
 github profile markdown generator logo
 GitHub Profile README Generator
 Star this repo17511
@@ -37,10 +38,3 @@ Fork on GitHub5096
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=it21802058&show_icons=true&locale=en" alt="it21802058" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=it21802058&" alt="it21802058" /></p>
-
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
